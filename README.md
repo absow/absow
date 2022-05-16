@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @absow
 - 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently Student of Software Enginireeing 
 - 💞️ I’m looking to collaborate on Frontend Project
 - 📫 How to reach me abdullahibashirsow@gmail.com/ abdullahibashir.com
 
